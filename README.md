@@ -1,4 +1,7 @@
 # stickans-verktygsbibliotek
+
+**INDIVIDUAL PROJECT MADE BY ME**
+
 → Figma prototype of Stickans Verktygsbibliotek
 
 Stickans verktygsbibliotek
